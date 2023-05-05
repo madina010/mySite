@@ -1,0 +1,23 @@
+body{
+    background-color: #E74C3C;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+h1 {
+    margin: 50px 0 0 0;
+    color: #fff;
+    font-family: "Indie Flower", cursive;
+    font-size: 48px;
+    font-weight: normal;
+    text-align: center;
+}
+
+p {
+    margin: 50px 0 0 0;
+    color: #fff;
+    font-family: "Indie Flower", cursive;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}

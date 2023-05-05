@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+a {
+    margin: 50px 0 0 0;
+    color: #fff;
+    font-family: "Indie Flower", cursive;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    padding-left: 320px;
+}
+
+a:hover {
+    color: crimson;
+}
